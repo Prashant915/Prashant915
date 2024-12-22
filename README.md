@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Randiwe</h1>
-<h3 align="center">A passionate & dedicated Python Developer with 3+ years of experience, currently thriving as a Team Lead (Python Developer) at Wipro and XWF Python Developer at Google Maps. I specialize in crafting innovative and efficient solutions that merge technical excellence with seamless user experiences.</h3>
+<h3 align="justify">A passionate & dedicated Python Developer with 3+ years of experience, currently thriving as a Team Lead (Python Developer) at Wipro and XWF Python Developer at Google Maps. I specialize in crafting innovative and efficient solutions that merge technical excellence with seamless user experiences.</h3>
 
- 💡 What I Bring to the Table:
- 🚀 Enhanced the performance of Tools by:
-    ⚡ Streamlining database calls and optimizing data handling techniques.
-    ⚡ Designing user-centric features that elevate usability and efficiency.
-    ⚡ Introducing scalable solutions to close functional gaps, ensuring smooth operations.
+ 💡 What I Bring to the Table:<br>
+ 🚀 Enhanced the performance of Tools by:<br>
+    ⚡ Streamlining database calls and optimizing data handling techniques.<br>
+    ⚡ Designing user-centric features that elevate usability and efficiency.<br>
+    ⚡ Introducing scalable solutions to close functional gaps, ensuring smooth operations.<br>
 
  - 🛠️ Technical Expertise:
   
