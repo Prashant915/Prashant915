@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Prashant Randiwe</h1>
-<h3 align="center">A passionate Full Stack Developer and GCP Developer from India</h3>
+<h3 align="center">A passionate & dedicated Python Developer with 3+ years of experience, currently thriving as a Team Lead (Python Developer) at Wipro and XWF Python Developer at Google Maps. I specialize in crafting innovative and efficient solutions that merge technical excellence with seamless user experiences.</h3>
 
-- 🔭 I’m currently working on **DJango and Django Rest Frameworks**
+ 💡 What I Bring to the Table:
+ 🚀 Enhanced the performance of Tools by:
+    ⚡ Streamlining database calls and optimizing data handling techniques.
+    ⚡ Designing user-centric features that elevate usability and efficiency.
+    ⚡ Introducing scalable solutions to close functional gaps, ensuring smooth operations.
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+ - 🛠️ Technical Expertise:
+  
+ - 🌐 Backend: Django, Django Rest Framework for powerful and scalable functionalities.
+   
+ - 💻 Frontend: HTML5, CSS3, JavaScript, Bootstrap for intuitive and responsive UIs.
+   
+ - 📊 Databases: MySQL for robust and optimized data management.
+   
+ - 📡 Web Servers: Proficient in managing Apache and Nginx for seamless deployments.
 
-- 📫 How to reach me **Prashantrandiwe@gmail.com**
+ 🎯 What Drives Me:
+ I’m passionate about solving complex challenges and delivering impactful solutions that enhance productivity and user satisfaction. My work is defined by creativity, efficiency, and a relentless 
+commitment to excellence.
 
-- ⚡ Fun fact **Counting starts from zero, not one.**
+ 🌟 Let’s Collaborate! 🌟
+ I’m always eager to connect with like-minded professionals and explore opportunities to innovate and grow. Feel free to reach out to discuss how we can drive success together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
